@@ -8,3 +8,10 @@ keep updating...<br>
 
 _Aug 28th update_ <br>
 successfully get all required urls from ai.ruc.edu.cn
+<hr>
+
+_Sep 2nd update_ <br>
+successfully complete the basic searching system without UI<br>
+mainly focusing on building Inverted Index System and applying VSM<br>
+ending up with a score of 0.5930719194894454 ranking 6 temporarily
+
